@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there, I'm David 👋
 
+I'm an **Android Software Engineer** based in Bishkek, currently building complex healthcare kiosk applications for the international market. I specialize in modern Android development, focusing on scalable architectures and hardware integration.
+
+**Tech Stack:**
+* **Languages:** Kotlin, Java
+* **UI:** Jetpack Compose, Material Design 3
+* **Architecture:** Clean Architecture, MVI/MVVM, Multi-module setups
+* **Tools:** Coroutines, Flow, Hilt, Room, Retrofit
+
+Feel free to check out my pinned repositories below to see my code!
 <!--
 **davshibru/davshibru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
